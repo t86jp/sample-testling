@@ -18,7 +18,7 @@
       "iexplore/6..10"
       , "firefox/3.5", "firefox/latest"
       , "chrome/latest"
-      , "safari/5..latest"
+      , "safari/latest"
       , "iphone/latest"
       , "ipad/latest"
       , "android-browser/latest"
