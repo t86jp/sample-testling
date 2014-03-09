@@ -15,11 +15,13 @@
     "harness": "mocha-bdd",
     "files": "test.js",
     "browsers": [
-      "ie": [ 6, 7, 8, 9, 10 ],
-      "ff": [ 12, 13, 14, 15, 16, 17 ],
-      "chrome": [ 20, 21, 22, 23 ],
-      "opera": [ 10, 11, 12 ],
-      "safari": [ 5.1 ]
+      "iexplore/6..10"
+      , "firefox/3.5", "firefox/latest"
+      , "chrome/latest"
+      , "safari/5..latest"
+      , "iphone/latest"
+      , "ipad/latest"
+      , "android-browser/latest"
     ]
   },
   "scripts": {
