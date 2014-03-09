@@ -16,7 +16,7 @@
     "files": "test.js",
     "browsers": [
       "iexplore/6..10"
-      , "firefox/3.5..latest"
+      , "firefox/3.5", "firefox/latest"
       , "chrome/latest"
       , "safari/latest"
       , "iphone/latest"
